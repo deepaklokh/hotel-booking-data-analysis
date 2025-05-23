@@ -39,13 +39,59 @@ Reduce booking cancellations and provide strategic business insights to optimize
 ## 📸 Analysis and Findings
 
 ### Reservation status Chart
-![Reservation status Chart](assets/booking_cancellation_chart.png)
+![Reservation status Chart](Screenshot%201.png)
 
-### ADR vs Cancellation Status
-![ADR vs Cancellation](assets/adr_vs_cancellation.png)
+* The accompanying bar graph shows the percentage of reservations that are canceled
+and those that are not. It is obvious that there are still a significant number of
+reservations that have not been canceled. There are still 37% of clients who canceled
+their reservation, which has a significant impact on the hotels' earnings.
 
-### Booking Distribution by Month
-![Monthly Booking Status](assets/monthly_booking_status.png)
+### Reservation status in different hotels
+![Reservation status in different hotels](Screenshot%202.png)
+
+* In comparison to resort hotels, city hotels have more bookings. It's possible that resort
+hotels are more expensive than those in cities.
+
+### Average Daily Rate in City and Resort Hotel
+![Average Daily Rate in City and Resort Hotel](Screenshot%203.png)
+
+* The line graph above shows that, on certain days, the average daily rate for a city hotel
+is less than that of a resort hotel, and on other days, it is even less. It goes without
+saying that weekends and holidays may see a rise in resort hotel rates.
+
+### Reservation Status per month
+![Reservation Status per monthl](Screenshot%204.png)
+
+* We have developed the grouped bar graph to analyze the months with the highest and
+lowest reservation levels according to reservation status. As can be seen, both the
+number of confirmed reservations and the number of canceled reservations are largest
+in the month of August. whereas January is the month with the most canceled
+reservations.
+
+### ADR for each month
+![RADR for each month](Screenshot%205.png)
+
+* This bar graph demonstrates that cancellations are most common when prices are
+greatest and are least common when they are lowest. Therefore, the cost of the
+accommodation is solely responsible for the cancellation.
+
+### Top 10 countries with reservation cancelled
+![Top 10 countries with reservation cancelled](Screenshot%206.png)
+
+* The top country is Portugal with the highest number of cancellations.
+
+### Let’s check the area from where guests are visiting the hotels and making reservations.
+Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% of the
+clients come from online travel agencies, whereas 27% come from groups. Only 4% of
+clients book hotels directly by visiting them and making reservations.
+
+### Average Daily rate
+![Average Daily rate](Screenshot%207.png)
+
+* As seen in the graph, reservations are canceled when the average daily rate is higher
+than when it is not canceled. It clearly proves all the above analysis, that the higher
+price leads to higher cancellation
+
 ## 📊 Key Findings
 
 * **37%** of bookings were canceled.
